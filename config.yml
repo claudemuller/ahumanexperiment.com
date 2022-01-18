@@ -18,7 +18,7 @@ minify:
 params:
   env: development
   title: "A Human Experiment"
-  description: "A collection of learnings."
+  description: "A collection of experiments by a budding human."
   keywords: [Blog]
   author: lukefilewalker
   #images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -73,10 +73,10 @@ params:
     hiddenInList: false
     hiddenInSingle: false
 
-  editPost:
-    URL: "https://github.com/claudemuller/ahumanexperiment.com/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/claudemuller/ahumanexperiment.com/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
