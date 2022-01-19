@@ -13,10 +13,10 @@ cover:
     caption: "Photo by Soumil Kumar from Pexels"
     relative: true
 #comments: true
-draft: false
+draft: true
 ---
 
-## Introduction
+## What I'm Expecting/Hypothesis
 
 Over the years I have taught myself to touch type using the [QWERTY]() keyboard layout and if memory serves, my maximum recorded speed was around 60 [WPM]('' Words Per Minute). A year or two ago I wanted to improve my effeciency when typing as I spend around 12+ hours at my keyboard and started exploring alternative keyboard layouts and decided to give [Colemak]() a try. Maybe the time wasn't right or I wasn't able to spend enough time acquiring the new skill, but it never stuck.
 
@@ -26,18 +26,12 @@ What spurred newest typing speed improvements was coming across a "chorded" keyb
 
 Enter the current experiment - see how much I can improve my touch typing speed in [Dvorak]() in 4 weeks of daily, measureable XXX.
 
-## What I'm Expecting/Hypothesis
-
-I'm expecting my typing speed on [Dvorak]() to improve by at least 20 [WPM]().
-
 ## Research
 
 ## Method
 
-The idea is to practice 10 minute each day for 4 weeks with two different tools. My baseline speed measurements in [WPM](. "Words Per Minute") for both a 1 and 3 minute test on [Typing.com](typing.com) will be recorded at commencement and the end of each week (7 days) in order to track progress.
+The idea is to practice 10 minute each day for 4 weeks with two different tools. My baseline speed measurements in [WPM]('' Words Per Minute) for both a 1 and 3 minute test on [Typing.com](typing.com) will be recorded at commencement and the end of each week (7 days) in order to track progress.
 
-**Commencement**: 19/01/2022  
-**Duration**: 4 weeks  
 **Baseline Measurements**:
 - Lily58 Pro 1min test: x WPM
 - Lily58 Pro 3min test: x WPM
@@ -45,10 +39,10 @@ The idea is to practice 10 minute each day for 4 weeks with two different tools.
 - Macbook Pro 16" 3min test: x WPM
 - System76 Lemur 1min test: x WPM
 - System76 Lemur 3min test: x WPM
+**Commencement**: 19/01/2022
+**Duration**: 4 weeks
 
 ## Variables
-
-### Multiple Keyboards = Different Results
 
 Something to mention is that I use 3 different keyboards in my day-to-day, namely:
 - a custom-built [Lily58 Pro]() which I use the bulk of the time
@@ -57,65 +51,19 @@ Something to mention is that I use 3 different keyboards in my day-to-day, namel
 
 That said, I will only be specifically practicing on the Lily, but I will be monitoring how this practice translates into speed improvements on the other 2 keyboards.
 
-### Accuracy of Test Results
-
-With regard to the test results, I will take the 3x 1 minute tests, each with a different keyboard and with a 5 minute break away from my computer.
-
 ## Logbook
-
-### Activity Tracker
-
-| Date | Time | Done |
-|---|---|---|
-| 19/01/2022 | ? | ✅ |
-
-### Test Results
-
-| Date | Time | Duration | WPM | Keyboard |
-|---|---|---|---|---|
-| 19/01/2022 | | 1min | | Lily |
-| 19/01/2022 | | 1min | | Mac |
-| 19/01/2022 | | 1min | | Lemur |
-| 19/01/2022 | | 3min | | Lily |
-| 19/01/2022 | | 3min | | Mac |
-| 19/01/2022 | | 3min | | Lemur |
-| 26/01/2022 | | 1min | | Lily |
-| 26/01/2022 | | 1min | | Mac |
-| 26/01/2022 | | 1min | | Lemur |
-| 26/01/2022 | | 3min | | Lily |
-| 26/01/2022 | | 3min | | Mac |
-| 26/01/2022 | | 3min | | Lemur |
-| 02/02/2022 | | 1min | | Lily |
-| 02/02/2022 | | 1min | | Mac |
-| 02/02/2022 | | 1min | | Lemur |
-| 02/02/2022 | | 3min | | Lily |
-| 02/02/2022 | | 3min | | Mac |
-| 02/02/2022 | | 3min | | Lemur |
-| 09/02/2022 | | 1min | | Lily |
-| 09/02/2022 | | 1min | | Mac |
-| 09/02/2022 | | 1min | | Lemur |
-| 09/02/2022 | | 3min | | Lily |
-| 09/02/2022 | | 3min | | Mac |
-| 09/02/2022 | | 3min | | Lemur |
 
 ## Journal
 
-*__19/01/2022__*  
-Captain's log: The experiment commences...
-
-## Findings/Results
+## Findings/results
 
 **Final measurements**:
-| Date | Time | Duration | WPM | Keyboard |
-|---|---|---|---|---|
-| 09/02/2022 | | 1min | | Lily |
-| 09/02/2022 | | 1min | | Mac |
-| 09/02/2022 | | 1min | | Lemur |
-| 09/02/2022 | | 3min | | Lily |
-| 09/02/2022 | | 3min | | Mac |
-| 09/02/2022 | | 3min | | Lemur |
+- Lily58 Pro 1min test: ? WPM
+- Lily58 Pro 3min test: ? WPM
+- Macbook Pro 16" 1min test: ? WPM
+- Macbook Pro 16" 3min test: ? WPM
+- System76 Lemur 1min test: ? WPM
+- System76 Lemur 3min test: ? WPM
 
 ## Conclusion
-
-I was able to improve my typing speed by the following for each keyboard I use:
 
