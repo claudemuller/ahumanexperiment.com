@@ -24,7 +24,7 @@ params:
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: light
-  disableThemeToggle: false
+  disableThemeToggle: true
   layout: grid
   width: wide
 
@@ -53,8 +53,8 @@ params:
   #  text: lukefilewalker
   label:
     text: "A Human Experiment"
-    icon: /favicon-32x32.png
-    iconHeight: 35
+    icon: /logo.png
+    iconHeight: 45
 
   #homeInfoParams:
   #  Title: "Greetings! \U0001F62C"
