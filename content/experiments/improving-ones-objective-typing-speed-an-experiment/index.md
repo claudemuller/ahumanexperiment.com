@@ -1,5 +1,6 @@
 ---
-title: "Improving One's Objective Typing Speed [EXP_TypingSpeedImprovement_20220119.v1]"
+title: "Improving One's Objective Typing Speed - an Experiment"
+exp_name: "EXP_TypingSpeedImprovement_20220119.v1"
 date: 2022-01-19T00:00:00+02:00
 summary: "An experiment to gauge the amount and speed of progress when attempting to deliberately increase one's typing speed."
 author: "lukefilewalker"
