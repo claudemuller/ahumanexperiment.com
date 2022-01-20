@@ -41,13 +41,13 @@ The daily 10 minute practice will be split into 2 equal sessions, 5 minutes on [
 **Duration**: 4 weeks  
 **Baseline Measurements**:
 | Date | Time | Duration (min) | Speed (WPM) | Accuracy (%) | Keyboard | Screenshot |
-|---|---|---|---|---|---|---|
+|---|---|:---:|:---:|:---:|---|
 | 20/01/2022 | 11:33 | 1 | 58 | 95 | Lily | [image](./typing-test_lily_20012022.11:33.png) |
 | 20/01/2022 | 12:10 | 1 | 52 | 92 | Mac | [image](./typing-test_mac_20012022.12:10.png) |
 | 20/01/2022 | 12:06 | 1 | 50 | 92 | Lemur | [image](./typing-test_lemur_20012022.12:06.png) |
-| 20/01/2022 | | 3min | || Lily |
-| 20/01/2022 | | 3min | || Mac |
-| 20/01/2022 | | 3min | || Lemur |
+| 20/01/2022 | | 3 | || Lily |
+| 20/01/2022 | | 3 | || Mac |
+| 20/01/2022 | | 3 | || Lemur |
 
 ## Variables
 
@@ -75,31 +75,31 @@ With regard to the test results, I will take the 3x 1 minute tests, each with a 
 ### Test Results
 
 | Date | Time | Duration (min) | Speed (WPM) | Accuracy (%) | Keyboard |
-|---|---|---|---|---|---|
+|---|---|:---:|:---:|:---:|---|
 | 20/01/2022 | 11:33 | 1 | 58 | 95 | Lily |
 | 20/01/2022 | 12:10 | 1 | 52 | 92 | Mac |
 | 20/01/2022 | 12:06 | 1 | 50 | 92 | Lemur |
-| 20/01/2022 | | 3min | || Lily |
-| 20/01/2022 | | 3min | || Mac |
-| 20/01/2022 | | 3min | || Lemur |
-| 27/01/2022 | | 1min | || Lily |
-| 27/01/2022 | | 1min | || Mac |
-| 27/01/2022 | | 1min | || Lemur |
-| 27/01/2022 | | 3min | || Lily |
-| 27/01/2022 | | 3min | || Mac |
-| 27/01/2022 | | 3min | || Lemur |
-| 03/02/2022 | | 1min | || Lily |
-| 03/02/2022 | | 1min | || Mac |
-| 03/02/2022 | | 1min | || Lemur |
-| 03/02/2022 | | 3min | || Lily |
-| 03/02/2022 | | 3min | || Mac |
-| 03/02/2022 | | 3min | || Lemur |
-| 10/02/2022 | | 1min | || Lily |
-| 10/02/2022 | | 1min | || Mac |
-| 10/02/2022 | | 1min | || Lemur |
-| 10/02/2022 | | 3min | || Lily |
-| 10/02/2022 | | 3min | || Mac |
-| 10/02/2022 | | 3min | || Lemur |
+| 20/01/2022 | | 3 | || Lily |
+| 20/01/2022 | | 3 | || Mac |
+| 20/01/2022 | | 3 | || Lemur |
+| 27/01/2022 | | 1 | || Lily |
+| 27/01/2022 | | 1 | || Mac |
+| 27/01/2022 | | 1 | || Lemur |
+| 27/01/2022 | | 3 | || Lily |
+| 27/01/2022 | | 3 | || Mac |
+| 27/01/2022 | | 3 | || Lemur |
+| 03/02/2022 | | 1 | || Lily |
+| 03/02/2022 | | 1 | || Mac |
+| 03/02/2022 | | 1 | || Lemur |
+| 03/02/2022 | | 3 | || Lily |
+| 03/02/2022 | | 3 | || Mac |
+| 03/02/2022 | | 3 | || Lemur |
+| 10/02/2022 | | 1 | || Lily |
+| 10/02/2022 | | 1 | || Mac |
+| 10/02/2022 | | 1 | || Lemur |
+| 10/02/2022 | | 3 | || Lily |
+| 10/02/2022 | | 3 | || Mac |
+| 10/02/2022 | | 3 | || Lemur |
 
 ## Journal
 
@@ -110,13 +110,13 @@ Captain's log: The experiment commences... I didn't sleep well with being on-cal
 
 **Final measurements**:
 | Date | Time | Duration (min) | Speed (WPM) | Accuracy (%) | Keyboard |
-|---|---|---|---|---|---|
-| 10/02/2022 | | 1min | | | Lily |
-| 10/02/2022 | | 1min | | | Mac |
-| 10/02/2022 | | 1min | | | Lemur |
-| 10/02/2022 | | 3min | | | Lily |
-| 10/02/2022 | | 3min | | | Mac |
-| 10/02/2022 | | 3min | | | Lemur |
+|---|---|:---:|:---:|:---:|---|
+| 10/02/2022 | | 1 | | | Lily |
+| 10/02/2022 | | 1 | | | Mac |
+| 10/02/2022 | | 1 | | | Lemur |
+| 10/02/2022 | | 3 | | | Lily |
+| 10/02/2022 | | 3 | | | Mac |
+| 10/02/2022 | | 3 | | | Lemur |
 
 ## Conclusion
 
