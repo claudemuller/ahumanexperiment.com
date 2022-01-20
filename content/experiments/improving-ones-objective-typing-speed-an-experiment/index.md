@@ -41,7 +41,7 @@ The daily 10 minute practice will be split into 2 equal sessions, 5 minutes on [
 **Duration**: 4 weeks  
 **Baseline Measurements**:
 | Date | Time | Duration (min) | Speed (WPM) | Accuracy (%) | Keyboard | Screenshot |
-|---|---|:---:|:---:|:---:|---|
+|---|---|:---:|:---:|:---:|:---|:---:|
 | 20/01/2022 | 11:33 | 1 | 58 | 95 | Lily | [image](./typing-test_lily_20012022.11:33.png) |
 | 20/01/2022 | 12:10 | 1 | 52 | 92 | Mac | [image](./typing-test_mac_20012022.12:10.png) |
 | 20/01/2022 | 12:06 | 1 | 50 | 92 | Lemur | [image](./typing-test_lemur_20012022.12:06.png) |
