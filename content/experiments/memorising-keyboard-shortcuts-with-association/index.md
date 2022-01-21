@@ -14,7 +14,7 @@ cover:
     relative: true
     marginTop: -150
 #comments: true
-draft: false
+draft: true
 ---
 
 ## Introduction
