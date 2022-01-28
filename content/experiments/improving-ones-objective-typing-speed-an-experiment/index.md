@@ -78,20 +78,20 @@ With regard to the test results, I will take the 3x 1 minute tests, each with a 
 
 ### Test Results
 
-| Date | Time | Duration (min) | Speed (WPM) | Accuracy (%) | Keyboard |
+| Date | Time | Duration (min) | Speed (WPM) | Accuracy (%) | Keyboard | Screenshot |
 |---|---|:---:|:---:|:---:|---|
-| 20/01/2022 | 11:33 | 1 | 58 | 95 | Lily |
-| 20/01/2022 | 12:10 | 1 | 52 | 92 | Mac |
-| 20/01/2022 | 12:06 | 1 | 50 | 92 | Lemur |
-| 28/01/2022 | | 1 | || Lily |
-| 28/01/2022 | | 1 | || Mac |
-| 28/01/2022 | | 1 | || Lemur |
-| 04/02/2022 | | 1 | || Lily |
-| 04/02/2022 | | 1 | || Mac |
-| 04/02/2022 | | 1 | || Lemur |
-| 11/02/2022 | | 1 | || Lily |
-| 11/02/2022 | | 1 | || Mac |
-| 11/02/2022 | | 1 | || Lemur |
+| 20/01/2022 | 11:33 | 1 | 58 | 95 | Lily | [image](./typing-test_lily_20012022.11:33.png) |
+| 20/01/2022 | 12:10 | 1 | 52 | 92 | Mac | [image](./typing-test_mac_20012022.12:10.png) |
+| 20/01/2022 | 12:06 | 1 | 50 | 92 | Lemur | [image](./typing-test_lemur_20012022.12:06.png) |
+| 28/01/2022 | 10:05 | 1 | 56 | 91 | Lily | [image](./typing-test_lily_28012022.10:05.png) |
+| 28/01/2022 | 14:27 | 1 | 46 | 87 | Mac | [image](./typing-test_mac_28012022.10:05.png) |
+| 28/01/2022 | 12:48 | 1 | 58 | 93 | Lemur | [image](./typing-test_lemur_28012022.10:05.png) |
+| 04/02/2022 | | 1 | || Lily | |
+| 04/02/2022 | | 1 | || Mac | |
+| 04/02/2022 | | 1 | || Lemur | |
+| 11/02/2022 | | 1 | || Lily | |
+| 11/02/2022 | | 1 | || Mac | |
+| 11/02/2022 | | 1 | || Lemur | |
 
 ## Journal
 
