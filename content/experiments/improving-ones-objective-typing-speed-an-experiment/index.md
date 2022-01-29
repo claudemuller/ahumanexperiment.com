@@ -74,7 +74,9 @@ With regard to the test results, I will take the 3x 1 minute tests, each with a 
 | 25/01/2022 | 10:01 | ✅ |
 | 26/01/2022 | 10:36 | ✅ |
 | 27/01/2022 | 11:46 | ✅ |
-| 28/01/2022 | |  |
+| 29/01/2022 | 17:47 | ✅ |
+| 30/01/2022 | |  |
+| 30/01/2022 | |  |
 
 ### Test Results
 
@@ -103,6 +105,9 @@ Captain's log: The experiment commences...
 
 *__24/01/2022__*  
 Captain's log: I wasn't able to get a training session in yesterday as there was way too much happening that kept me away from my PC. Instead, I hope that two sessions, one in the morning and one in the afternoon, would sort of make up for the missed session.
+
+*__29/01/2022__*  
+Captain's log: Again, because of life I had to catch up some practice :( this I will do tomorrow...
 
 ## Findings/Results
 
