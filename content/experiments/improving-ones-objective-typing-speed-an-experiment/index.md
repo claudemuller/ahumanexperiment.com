@@ -14,6 +14,7 @@ cover:
     relative: true
     marginTop: -150
 #comments: true
+showtoc: true
 draft: false
 ---
 
@@ -75,8 +76,9 @@ With regard to the test results, I will take the 3x 1 minute tests, each with a 
 | 26/01/2022 | 10:36 | ✅ |
 | 27/01/2022 | 11:46 | ✅ |
 | 29/01/2022 | 17:47 | ✅ |
-| 30/01/2022 | |  |
-| 30/01/2022 | |  |
+| 30/01/2022 | 14:10 | ✅ |
+| 31/01/2022 | |  |
+| 31/01/2022 | |  |
 
 ### Test Results
 
