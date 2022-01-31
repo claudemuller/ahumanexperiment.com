@@ -78,7 +78,8 @@ With regard to the test results, I will take the 3x 1 minute tests, each with a 
 | 29/01/2022 | 17:47 | ✅ |
 | 30/01/2022 | 14:10 | ✅ |
 | 31/01/2022 | 04:52 | ✅ |
-| 31/01/2022 | |  |
+| 31/01/2022 | 08:43 | ✅ |
+| 01/02/2022 | |  |
 
 ### Test Results
 
