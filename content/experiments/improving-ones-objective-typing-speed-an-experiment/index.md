@@ -18,6 +18,10 @@ showtoc: true
 draft: false
 ---
 
+## UPDATE: This experiment has been put on hold due to massive life changes - I will reboot this experiment around a month from now (10/02/2022)
+
+My family and I are emigrating to Sweden and currently this process has 110% of our attention. Once we settle in and have somewhat of a daily rhythm going, I will reboot this experiment and start a few more.
+
 ## Introduction
 
 Over the years I have taught myself to touch type using the [QWERTY](https://en.wikipedia.org/wiki/QWERTY "QWERTY") keyboard layout and if memory serves, my maximum recorded speed was around 60 [WPM](/ "Words Per Minute"). A year or two ago I wanted to improve my efficiency when typing as I spend around 12+ hours at my keyboard and started exploring alternative keyboard layouts. I decided to give [Colemak](https://en.wikipedia.org/wiki/Colemak "Colemak") a try. Maybe the time wasn't right or I wasn't able to spend enough time acquiring the new skill, but it never stuck.
